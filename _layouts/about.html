@@ -3,14 +3,15 @@ layout: default
 ---
 
 <!-- about.html -->
-      <div class="post">
-        <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
 
+
+<div class="container mt-5">
+      <div style="margin-top:-50px; margin-left:-250px; width:164%; height:230px; background-position: top; background-image:url(' assets/img/sf3.JPG '); background-size: cover;">
+</div>
+<br>
+
+      <div class="post">
+          <div style = "margin-top: 50px;"</div>
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -37,6 +38,13 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
+              <header class="post-header">
+                  <header style = "margin-top: 25px;">   
+                      <h1 class="post-title">
+                          {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+                      </h1>
+                      <p class="desc">{{ page.subtitle }}</p>
+                  </header>
             {{ content }}
           </div>
 

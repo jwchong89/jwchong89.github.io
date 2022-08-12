@@ -176,7 +176,13 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+
+          {%- if entry.journal_link %}
+            <a href="{{ entry.journal_link}}" class="btn btn-sm z-depth-0" role="button">Journal</a>
+          {%- endif %}
           </div>
+
+
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
