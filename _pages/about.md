@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-bannerImage: "assets/img/sf3.jpg"
+bannerImage: "assets/img/sf1.jpg"
 profile:
   align: right
   image: prof_pic1.jpg
