@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu <br>office: PMA/RLM 12.140</br>"
 
