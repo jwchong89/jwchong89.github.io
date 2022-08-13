@@ -2,8 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-bannerImage: "assets/img/sf1.jpg"
+subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu \n office: PMA/RLM 12.140"
+
+bannerImage: "assets/img/sf3.jpg"
+
 profile:
   align: right
   image: prof_pic1.jpg
