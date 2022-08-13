@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: "email: jwchong 🍎 math 🐶 utexas🐶 edu <br>office: PMA/RLM 12.140</br>"
 
-bannerImage: "assets/img/sf3.jpg"
+bannerImage: "assets/img/sf1.jpg"
 
 profile:
   align: right
