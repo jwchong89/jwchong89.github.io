@@ -1,9 +1,16 @@
 "arXiv":
-  url: https://aapt.scitation.org/journal/ajpu
+  url: https://arxiv.org/
   color: "#003B4A"
 
 "AIP":
-  url: https://aapt.scitation.org//ajpu 
+  url: https://aip.scitation.org/ 
   color: "#00369f"
 
+"Taylor & Francis":
+  url: https://taylorandfrancis.com/ 
+  color: "#008000"
+
+"Springer":
+  url: https://www.springer.com/gp
+  color: "#0096FF"
 
