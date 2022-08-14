@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About 
 permalink: /
 subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu <br>office: PMA/RLM 12.140</br>"
 
@@ -8,7 +8,7 @@ bannerImage: "assets/img/sf1.jpg"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_cicular: false # crops the image to make it circular
 
 news: true # includes a list of news items
