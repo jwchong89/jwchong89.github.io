@@ -2,7 +2,7 @@
 
 - title: UT Austin
   contents:
-    - name: "M340L: Matrics and Matrix calculations"
+    - name: "M340L: Matrics and Matrix Calculations"
       courseId: M340L
       period: Spring 2022
       link: "https://web.ma.utexas.edu/users/jwchong/math340L_spr22.html"
@@ -10,8 +10,14 @@
 
     - name: "M427L: Advanced Calculus For Application II"
       courseId: M427L
-      period: Spring 2022
+      period: Fall 2021
       link: "https://web.ma.utexas.edu/users/jwchong/math427L_fall21.html"
+      courseInfo: 
+
+    - name: "M427L: Advanced Calculus For Application II"
+      courseId: M427L
+      period: Fall 2020
+      link: "https://web.ma.utexas.edu/users/jwchong/math427L_fall20.html"
       courseInfo: 
 
     - name: "M340L: Matrices and Matrix Calculations" 

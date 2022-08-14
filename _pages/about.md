@@ -2,9 +2,9 @@
 layout: about
 title: About 
 permalink: /
-subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu <br>office: PMA/RLM 12.140</br>"
+subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu"
 
-bannerImage: "assets/img/sf1.jpg"
+bannerImage: "assets/img/sf2.jpg"
 
 profile:
   align: right
