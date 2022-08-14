@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hello
+title: didn't hide 
 date: 2022-8-13
 inline: false
 hide: true
@@ -14,3 +14,4 @@ hide: true
 <!--- (# https://alshedivat.github.io/al-folio/blog/2015/math/)
 ---> 
 
+third post

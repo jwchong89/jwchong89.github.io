@@ -8,7 +8,7 @@ bannerImage: "assets/img/sf1.jpg"
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
 
 news: true # includes a list of news items

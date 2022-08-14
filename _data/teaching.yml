@@ -6,7 +6,7 @@
       courseId: M340L
       period: Spring 2022
       link: "https://web.ma.utexas.edu/users/jwchong/math340L_spr22.html"
-      courseInfo: 
+      courseInfo:
 
     - name: "M427L: Advanced Calculus For Application II"
       courseId: M427L
@@ -31,16 +31,19 @@
     - name: "Math 241: Calculus III"
       courseId: Math 241
       period: Summer 2019
+      link:
       courseInfo: 
 
     - name: "Math 246: Differential Equations"
       courseId: Math 246
       period: Spring 2019
+      link:
       courseInfo: 
 
     - name: "Math 246: Differential Equations"
       courseId: Math 246
       period: Spring 2018
+      link:
       courseInfo:  
  
 
