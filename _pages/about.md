@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu"
 
-bannerImage: "assets/img/sf2.jpg"
+bannerImage: "assets/img/sf4.jpg"
 
 profile:
   align: right
