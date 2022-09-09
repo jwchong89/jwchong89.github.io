@@ -2,7 +2,7 @@
 layout: about
 title: About 
 permalink: /
-subtitle: "email: jwchong 🍎 math 🐶 utexas 🐶 edu"
+subtitle: "email: jwchong 🍎 math 🐶 pku 🐶 edu 🐶 cn"
 
 bannerImage: "assets/img/sf4.jpg"
 

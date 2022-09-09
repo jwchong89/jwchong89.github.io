@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POSTECH, PDE and Applied Analysis Seminar
-date: 2022-9-28
+date: 2022-11-16
 inline: false
 hide: false
 
