@@ -14,3 +14,10 @@
   url: https://www.springer.com/gp
   color: "#0096FF"
 
+"Polytechnique":
+  url: https://www.editions.polytechnique.fr/?categorie=Math%C3%A9matiques+-+Ouvrages+p%C3%A9riodiques
+  color: "#e5e5c7"
+
+"EMS":
+  url: https://ems.press/
+  color: "#fdb913"
