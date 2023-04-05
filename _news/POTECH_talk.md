@@ -10,7 +10,7 @@ hide: false
 #false - no hyperlink and post below is the news
 
 ---
-POSTECH, PDE and Applied Analysis Seminar
+Pohang University of Science and Technology, PDE and Applied Analysis Seminar
 <!-- cmd + / : comments the whole line-->
 
 <!--- (# https://alshedivat.github.io/al-folio/blog/2015/math/)
