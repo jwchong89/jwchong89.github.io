@@ -13,7 +13,7 @@ After making the necessary changes, Run the following commands to push and deplo
 ``` 
 git add . 
 git commit -m "A description or message of what you did" 
-git push origin main
+git push 
 ``` 
 
 ## Add a publication
