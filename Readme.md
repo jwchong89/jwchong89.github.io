@@ -2,7 +2,7 @@
 
 Before making any changes, make sure to run this command. 
 ```
-git pull origin main
+git pull 
 ```
 Running this command allows you to get the most recent change to your repository.
 
